@@ -1,0 +1,29 @@
+Project folder
+
+*everything in lowe case*
+
+ project_name or project-name (no spaces)
+(sub folder)-->	-images
+		-------person.jpg
+		-css folder
+		-------styles.css
+		-js folder
+		-------main.js
+		-index.html
+		-about.html
+
+Terminal commands
+
+(copy from local to cloud and upload as link to cloud website)
+
+git config --global user.name "Naasik Kamish"  (create or login to account)
+git config --global user.email nrkamish@gmail.com (create email or login)
+git config user.name (check name status)
+git config user.email (check email)
+git clone https://github.com/Naasik80/html-.git (copy from github)
+git add .
+git commit -m(message) "setup folder structure and base files" <---leaves message
+git push origin -u master
+
+<b> is now <strong>
+<i> is now <emphasise>(<em>) <---- short version

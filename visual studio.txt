@@ -1,0 +1,12 @@
+****SHORTCUTS****
+
+div.featured-item>h1+h2+p+h2
+comment (cntrl + /) <----- ALWAYS LEAVE COMMENTS
+<p>lorem</p> <---- random paragraph
+
+jumplink (#jumplink)or(/#jumplink)
+|eg.
+|<p>this is a sentence <a href="#jumplink">that</a> is short</p>
+|<h1 id="jumplink">this is heading</h1>
+
+<a href="" target="_blank"></a> <---- trarget blank opens the link in new tab

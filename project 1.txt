@@ -1,0 +1,25 @@
+-html
+-css (css grid layout)
+-github gitbash
+-read me of what we have done
+-good layout
+-look at other developers CV
+-good use of colors (rgb)
+-any amount of pages
+-responsive design (revied in different screen sizes)
+-focus on structure not content
+-correct indentation with structured folders
+-correct use comments 
+-corect text
+-correct formatting
+-clear and neat forms
+-google fonts
+-proper naming convensions (name class,id,folder etc)
+-name (onlinecv)
+-good use of iterations rather then copy and pasting
+-correct page titles
+-fully interactive
+- self-learning
+-make sure code meets outcome
+- dont use templates
+-learn iframes

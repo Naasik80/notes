@@ -1,0 +1,11 @@
+write apology letter to darling Rasool
+
+-heading
+-p (sweet message apologising) (gana make fave dish)
+-options <recipe: list ingriedients fave dish>
+-(take out for movies)(3 movies dropdown box)
+-(select day and date)
+-(select area radio buttons)
+-(must be able to type response back)
+-(checkbox to accept apology)
+-(look pretty)
